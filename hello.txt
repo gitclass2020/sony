@@ -4,7 +4,7 @@
 <target name="first">
 
 <echo>this is the first target</echo>
-
+<echo> this is the target 1</echo>
 </target>
 
 </project>
