@@ -1,6 +1,7 @@
 <project name="hello world" basedir="." default=" ">
 
 
-
+<target name="first">
+<echo>this is the first target</echo>
 </project>
 
