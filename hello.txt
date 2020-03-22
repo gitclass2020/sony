@@ -5,3 +5,4 @@
 <echo>this is the first target</echo>
 </project>
 
+my name is hello
